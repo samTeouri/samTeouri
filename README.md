@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samTeouri
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science at IFNTI Sokodé-Togo
-- 💞️ I’m looking to collaborate on JAVA projects
+- 💞️ I’m looking to collaborate on JAVA, Laravel, Django, JS projects
 - 📫 How to reach me teourisamrou@gmail.com
 
 <!---
